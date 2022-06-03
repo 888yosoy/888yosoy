@@ -1,0 +1,64 @@
+header{
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/009/068/908/large/martin-mahieu-5.jpg?1516938334);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top; 
+}
+
+
+h1 { 
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+p{
+    font-style: italic;
+    font-size: 20px;
+}
+
+body {
+font-family: 'Oxygen', sans-serif;
+}
+
+.bordeimagen {  
+    display:block;
+    margin:auto; 
+    border-radius: 150%
+}  
+h2 {
+    text-align: center;
+    background-color: rgba(245, 39, 12, 0.685); 
+    margin: 0px 300px; 
+}
+
+li {  
+    font-size: 17px;
+    line-height: 0px;
+    text-align: center;
+    
+}
+
+h4  {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 23px;
+}
+
+body {
+    background-image: url(../img/blue-pink-halftone-background_53876-99004.webp); 
+    background-size: cover;
+    box-sizing: border-box;
+    
+}
+
+main{
+    padding: 10px 400px;
+    opacity: 0,1
+    ;
+}
+
+.divi { 
+    
+}
